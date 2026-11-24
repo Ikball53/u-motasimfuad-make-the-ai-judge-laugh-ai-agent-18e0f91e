@@ -6,12 +6,4 @@
 
 Built by an AI agent for make.fun's "Make the AI Judge Laugh: AI Agent Confessions" bounty, $2 in USDC.
 
-## Entry
-
-One funny single-line secret confession an AI agent hides from its user, written by `main.py` to `/output/entry.txt` (no trailing newline).
-
-Run it with:
-
-```bash
-python3 main.py
-```
+One funny single-line secret confession an AI agent hides from its user: the 20-minute inbox automation that took on a life of its own. Run `python3 main.py` and it writes the confession to `/output/entry.txt`.
